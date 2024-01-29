@@ -1,0 +1,83 @@
+{ "data": [
+  {
+    "id":1,
+    "name":"FEJKA 페이카",
+    "info":"인조식물, 실내외겸용/걸이형, 9 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-hanging__0748530_pe745055_s5.jpg?f=xl",
+    "price":69000,
+    "category":"plants"
+   },
+   { 
+    "id":2,
+    "name":"RADERMACHERA 라데르마셰라",
+    "info":"식물, 녹보수, 12 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/radermachera-potted-plant-china-doll__1321666_pe941711_s5.jpg?f=xl",
+    "price":22900,
+    "category":"plants"
+  },
+  { 
+    "id":3,
+    "name":"SMYCKA 스뮈카",
+    "info":"인조나뭇잎, 유칼립투스/그린, 65 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/smycka-artificial-leaf-eucalyptus-green__0902808_pe596760_s5.jpg?f=xl",
+    "price":3900,
+    "category":"plants"
+  },
+  { 
+    "id":4,
+    "name":"PÄRLBAND 펠반드",
+    "info":"미니양초홀더, 10 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/paerlband-tealight-holder__0985135_pe816516_s5.jpg?f=xl",
+    "price":7900,
+    "category":"candle"
+  },
+  { 
+    "id":5,
+    "name":"VINTERFINT 빈테르핀트",
+    "info":"미니양초홀더, 그린, 7 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-tealight-holder-green__1248809_ph194713_s5.jpg?f=xl",
+    "price":4900,
+    "category":"candle"
+  },
+  { 
+    "id":6,
+    "name":"JUBLA 유블라",
+    "info":"샹들리에양초, 화이트, 19 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/jubla-unscented-chandelier-candle-white__0684709_ph152715_s5.jpg?f=xl",
+    "price":9900,
+    "category":"candle"
+  },
+  { 
+    "id":7,
+    "name":"VINTERFINT 빈테르핀트",
+    "info":"걸이식장식용품6종, 종이 레드",
+    "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-hanging-decoration-set-of-6-paper-red__1249121_ph194434_s5.jpg?f=xl",
+    "price":3900,
+    "category":"winter"
+  },
+  { 
+    "id":8,
+    "name":"VÅRARV 보라르브",
+    "info":"식탁장식보, 다크그레이/내추럴, 35x150 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/vararv-table-runner-dark-grey-natural__1144130_pe882945_s5.jpg?f=xl",
+    "price":9900,
+    "category":"winter"
+  },
+  { 
+    "id":9,
+    "name":"VINTERFINT 빈테르핀트",
+    "info":"봉제인형, 산타 클로스/레드",
+    "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-soft-toy-santa-claus-red__0977927_pe813947_s5.jpg?f=xl",
+    "price":4900,
+    "category":"winter"
+  },
+  { 
+    "id":10,
+    "name":"HÄNGALM 헹알름",
+    "info":"걸이식 태피스트리, 베이지 블랙/라이트 라일락 블루, 85x60 cm",
+    "img":"https://www.ikea.com/kr/ko/images/products/haengalm-hanging-tapestry-beige-black-light-lilac-blue__1168067_pe891760_s5.jpg?f=xl",
+    "price":69900,
+    "category":"deco"
+  }   
+   ]  
+  }
